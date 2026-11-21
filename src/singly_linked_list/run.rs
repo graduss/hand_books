@@ -21,6 +21,5 @@ pub fn run() {
             }
             _ => panic!("Ivalid input"),
         }
-        println!("{list:?}");
     }
 }
